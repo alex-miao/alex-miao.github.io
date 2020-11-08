@@ -3,6 +3,7 @@ layout: post
 title:  "Reflections on Teaching a Blockchain Seminar"
 date:   2020-03-10
 categories: blockchain
+tags: [blockchain]
 ---
 
 For the first half of this semester, up until Spring Break, I developed the material for and taught a weekly seminar formally titled "Topics in Blockchain" at Penn to a crowd of students interested in learning more about what is happening in this rapidly evolving space. The course met for a total of six sessions, with each session being about 90 minutes. 

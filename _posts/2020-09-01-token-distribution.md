@@ -3,6 +3,7 @@ layout: post
 title:  "An Overview of Token Distribution Mechanisms"
 date:   2020-09-01
 categories: blockchain
+tags: [blockchain]
 ---
 
 In the world of public blockchains and cryptocurrencies, projects need to bootstrap network effects before becoming useful. As per Metcalfe’s Law, the value that a network provides scales non-linearly with the number of people; a network with $$n$$ people participating has a total of $$\binom{n}{2}$$ possible connections between people. The more people join, the more it makes sense for others to join. Given this dynamic, the question for the founding teams of crypto projects becomes, how do we get tokens into the hands of potential users and grow the network?
